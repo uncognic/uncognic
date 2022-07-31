@@ -3,6 +3,7 @@
 Hey there 👋 I'm wjk!
   <br>
 </h1>
+
 **I'm just your regular local computer programmer guy!**
 
 **I "code" in Batch and i know a little bit of Python**
