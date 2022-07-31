@@ -1,8 +1,10 @@
 <h1 align="center">
   <br>
-Hey there 👋
+Hey there 👋 I'm wjk!
   <br>
 </h1>
+I'm just your regular local computer programmer guy!
+I "code" in Batch and i know a little bit of Python
 
 <!--
 **wjk4/wjk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
