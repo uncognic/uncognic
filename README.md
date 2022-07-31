@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-### Hey there 👋
+Hey there 👋
   <br>
 </h1>
 
