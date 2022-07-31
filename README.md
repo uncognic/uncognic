@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-## Hey there 👋 I'm wjk4!
+# Hey there 👋 I'm wjk4!
   <br>
 </h1>
 
