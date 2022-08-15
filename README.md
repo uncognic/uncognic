@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
- Hey there 👋 I'm wjk4!
+ Hey there 👋 I'm kryxzz!
   <br>
 </h1>
 
@@ -8,7 +8,7 @@
 
 **I "code" in Batch and i know a little bit of Python**
 
-**You can contact me at wjk4#8084 on Discord and ilyas-naz@proton.me**
+**You can contact me at kryxzz#8084 on Discord and ilyas-naz@proton.me**
 
 <!--
 **wjk4/wjk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
