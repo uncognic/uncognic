@@ -6,7 +6,7 @@
 
 **I'm just your regular local computer programmer guy!**
 
-**I "code" in Batch and i know a little bit of Python**
+**Sometimes I write some stuff, put it in a batch file and it works**
 
 **You can contact me at uncognic#5044 on Discord and 5881660@gmail.com**
 
