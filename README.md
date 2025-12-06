@@ -7,7 +7,6 @@ I'm a student passionate about software engineering, programming, and Linux.
 
 Languages: C, C++, Qt, Java, Kotlin, Python
 Web: HTML, CSS  
-Data: SQL, MariaDB  
 Tools & Platforms: Git, GitHub, Docker, Backblaze/AWS/S3
 
 ## Contact
