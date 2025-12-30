@@ -1,6 +1,1 @@
-## Skills
 <div align="left"> <img src="https://skillicons.dev/icons?i=linux,windows,cpp,c,qt,java,kotlin,python,html,css,git,github,docker" alt="Skills"/> </div>
-
-Languages: C, C++, Qt, Java, Kotlin, Python\
-Web: HTML, CSS\
-Tools & Platforms: Git, GitHub, Docker, Backblaze/AWS/S3
